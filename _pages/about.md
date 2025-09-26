@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Klaus Advanced Computing 2319</p>
+    <p>Klaus Advanced Computing</p>
     <p>266 Ferst Drive</p>
     <p>Atlanta, GA. 30332</p>
 
