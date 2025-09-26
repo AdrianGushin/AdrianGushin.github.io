@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: agushin3@gatech.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KACB2319</p>
+    <p>Klaus Advanced Computing 2319</p>
     <p>266 Ferst Drive</p>
     <p>Atlanta, GA. 30332</p>
 
